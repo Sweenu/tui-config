@@ -22,7 +22,7 @@
 <ram_format value="RAM: %avgb / %totgb GB (%av%%)"/>
 <battery_format value="%(Charging: /)%v%"/>
 <storage_format value="Internal Storage: %iavgb GB / %itotgb GB (%iav%%)"/>
-<network_info_format value="%(Wifi: %wn %ipv4/%[Data: %dt %ipv4/No Internet access])%nBluetooth: b1"/>
+<network_info_format value="%(Wifi: %wn %ip4/%[Data: %dt %ip4/No Internet access])%nBluetooth: %b1"/>
 <input_format value="%p %i"/>
 <output_format value="%o"/>
 <session_info_format value="%u@%d:%p"/>
