@@ -1,0 +1,5 @@
+
+cal=Calendar
+ff=Firefox
+
+s=search -dd %
